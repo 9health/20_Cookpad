@@ -1,2 +1,2 @@
-# 20_cookpad
+# 20_Cookpad
 Cookpad scraping
